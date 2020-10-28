@@ -5,4 +5,4 @@
 
 ## [bonEditor](https://fluffapparition.github.io/bonEditor/)
 
-## [Midnight UI by Tropix126](https://fluffapparition.github.io/midnight.md)
+## [Midnight UI by Tropix126](https://fluffapparition.github.io/midnight)
