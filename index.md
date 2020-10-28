@@ -1,10 +1,11 @@
-# Kur's Projects
+# My Projects
 #### [View Github Profile](https://github.com/fluffapparition)
 
 ## [Myspace Stylesheet Collection](https://fluffapparition.github.io/kurs-myspace-themes/)
 
 ## [bonEditor](https://fluffapparition.github.io/bonEditor/)
 
+# Projects I've Contributed To
 ## [Midnight UI by Tropix126](https://fluffapparition.github.io/midnight)
 #### ‣ [View Website](https://tropix126.github.io/BetterDiscordStuff/midnight/)
 
