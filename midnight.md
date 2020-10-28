@@ -14,3 +14,4 @@ Tropical has since moved on to the [Slate project](https://discordstyles.github.
 #### ‣[Fix all bugs in #86](https://github.com/Tropix126/BetterDiscordStuff/pull/88)
 #### ‣[Fix screenshare UI having high top margins.](https://github.com/Tropix126/BetterDiscordStuff/pull/90)
 #### ‣[Different upload ~~model~~ \*modal fix](https://github.com/Tropix126/BetterDiscordStuff/pull/95)
+#### ‣[Fix overlapping](https://github.com/Tropix126/BetterDiscordStuff/pull/96)
