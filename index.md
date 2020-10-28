@@ -1,5 +1,6 @@
-# My Projects
 #### [View Github Profile](https://github.com/fluffapparition)
+
+# My Projects
 
 ## [Myspace Stylesheet Collection](https://fluffapparition.github.io/kurs-myspace-themes/)
 
