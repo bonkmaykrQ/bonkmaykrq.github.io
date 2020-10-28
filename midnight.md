@@ -1,6 +1,5 @@
 # Midnight UI
-#### [View Website](https://tropix126.github.io/BetterDiscordStuff/midnight/)
-#### [← Back to Homepage](https://fluffapparition.github.io/)
+#### [← Back to Homepage](https://fluffapparition.github.io/) • [View Website](https://tropix126.github.io/BetterDiscordStuff/midnight/)
 
 [Midnight UI](https://github.com/Tropix126/BetterDiscordStuff/tree/fa5eece504a7f0aa92f5ec97fd9644893773355e/midnight) is a project created by [Tropical](https://github.com/Tropix126).
 
