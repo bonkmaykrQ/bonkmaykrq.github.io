@@ -17,3 +17,4 @@ Tropical has since moved on to the [Slate project](https://discordstyles.github.
 #### ‣[Fix overlapping](https://github.com/Tropix126/BetterDiscordStuff/pull/96)
 #### ‣[Tweak: improve button contrast from member list](https://github.com/Tropix126/BetterDiscordStuff/pull/98)
 #### ‣[Profile/Chat UI Tweaks (scrapped)](https://github.com/Tropix126/BetterDiscordStuff/pull/99)
+#### ‣[Fix emoji/sticker buttons leaking above text area](https://github.com/Tropix126/BetterDiscordStuff/pull/100)
