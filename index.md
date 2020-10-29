@@ -8,7 +8,7 @@
   
 ## [bonEditor](https://fluffapparition.github.io/bonEditor/)
 #### ‣ [View Repo](https://github.com/fluffapparition/bonEditor)
-<br></br>
+<br>
 # Projects I've Contributed To
 ## [Midnight UI by Tropix126](https://fluffapparition.github.io/midnight)
 #### ‣ [View Website](https://tropix126.github.io/BetterDiscordStuff/midnight/)
