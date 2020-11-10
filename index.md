@@ -2,7 +2,7 @@
 
 # My Projects
 
-## [Myspace Stylesheet Collection](bonkmaykrq.github.io/kurs-myspace-themes/)
+## [Myspace Stylesheet Collection](https://bonkmaykrq.github.io/kurs-myspace-themes/)
 #### ‣ [View Repo](https://github.com/bonkmaykrq/kurs-myspace-themes)
   
   
