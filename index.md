@@ -4,7 +4,7 @@
 
 ## [Myspace Stylesheet Collection](https://bonkmaykrq.github.io/kurs-myspace-themes/)
 #### ‣ [View Repo](https://github.com/bonkmaykrq/kurs-myspace-themes)
-#### ‣ [How to Steal People's CSS](https://github.com/bonkmaykrq/kurs-myspace-themes/how-to-STEAL)
+#### ‣ [How to Steal People's CSS](https://bonkmaykrq.github.io/kurs-myspace-themes/how-to-STEAL)
   
   
 ## [bonEditor](https://bonkmaykrq.github.io/bonEditor/)
