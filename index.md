@@ -1,5 +1,7 @@
 #### [View Github Profile](https://github.com/bonkmaykrq)
 
+# ___THIS PAGE AND IT'S CONTENTS WILL SOON BE MOVING TO BONKMAYKR.XYZ! FILES AND WEB ASSETS WILL REMAIN IN THEIR CURRENT LOCATION.___
+
 # My Projects
 
 ## [Myspace Stylesheet Collection](https://bonkmaykrq.github.io/kurs-myspace-themes/)
